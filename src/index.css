@@ -16,7 +16,7 @@ p {
 .sectionBox {
   background-color: #EDE8DA;
   border-radius: 1rem;
-  padding:5rem 3rem;
+  padding:3rem;
   display: flex;
   flex-direction: column;
 }
@@ -40,16 +40,16 @@ p {
 .iconButton {
   display: flex;
   background-color: #C9D468;
-  height: 4rem;
-  width: 4rem;
+  height: 2.75rem;
+  width: 2.75rem;
   border-radius: 100%;
   border-width: 0;
   transition: 0.3s;
   align-items: center;
   justify-content: center;
   .icon {
-    width: 2.5rem;
-    height: 2.5rem;
+    width: 1.75rem;
+    height: 1.75rem;
   }
 }
 .iconButton:hover {

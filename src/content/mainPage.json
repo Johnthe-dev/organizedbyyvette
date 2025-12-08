@@ -9,7 +9,8 @@
       },
       "subSections": [
         {
-          "content": "Albuquerque, New Mexico and surrounding areas"
+          "content": "Serving Albuquerque, New Mexico and surrounding areas",
+          "className": "pb1"
         },
         {
           "content": "Compassionate, judgment-free **home organizing services** for anyone going through a life transition or struggling with long term disorganization. I bring empathy and practical solutions to help transform your space in a way that works for you, to support the life you want."
@@ -37,7 +38,7 @@
             "type": "h2",
             "className": "subTitle noPadding"
           },
-          "content": "-   Hourly rate $70\n-   One car load of donations per session included\n-   Small and large projects - from sock drawers to workshops!"
+          "content": "-   Hourly rate $70\n-   Complimentary donation removal - one carload per session\n-   Small and large projects - from sock drawers to workshops!"
         }
       ],
       "className": "sectionBox twoColumns",

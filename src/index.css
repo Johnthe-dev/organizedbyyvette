@@ -105,3 +105,32 @@ body {
 .centerText {
   text-align: center !important;
 }
+.noSpace {
+   padding: 0;
+   margin: 0;
+ }
+.noPadding {
+  padding: 0;
+}
+.leftText {
+  text-align: left;
+}
+ul {
+  padding: 0 0 0 1rem;
+}
+li {
+  text-align: left;
+}
+.pb1 {
+  padding-bottom: 1rem !important;
+}
+.shortLineHeight {
+  line-height: 1.25;
+}
+.footerContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 0;
+}
+

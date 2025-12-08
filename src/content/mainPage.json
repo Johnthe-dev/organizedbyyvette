@@ -1,0 +1,83 @@
+{
+  "mainContent":
+  [
+    {
+      "title": {
+        "className": "title",
+        "content": "**Organized** by Yvette",
+        "type": "h1"
+      },
+      "subSections": [
+        {
+          "content": "Albuquerque, New Mexico and surrounding areas"
+        },
+        {
+          "content": "Compassionate, judgment-free **home organizing services** for anyone going through a life transition or struggling with long term disorganization. I bring empathy and practical solutions to help transform your space in a way that works for you, to support the life you want."
+        }
+      ],
+      "className": "sectionBox left twoColumns",
+      "hasContactButtons": true,
+      "hasHeroImage": true
+    },
+     {
+      "subSections": [
+        {
+          "title": {
+            "content":"Services offered",
+            "type": "h2",
+            "className": "subTitle noPadding"
+          },
+          "content": "-   Whole-home organizing sessions (kitchens, bedrooms, offices, garages, etc.)\n-   Customized organization systems design\n-   Decluttering assistance with compassionate support\n-   Maintenance planning for long-term organization success"
+          ,
+          "className": "noPadding"
+        },
+        {
+          "title": {
+            "content":"Pricing",
+            "type": "h2",
+            "className": "subTitle noPadding"
+          },
+          "content": "-   Hourly rate $70\n-   One car load of donations per session included\n-   Small and large projects - from sock drawers to workshops!"
+        }
+      ],
+      "className": "sectionBox twoColumns",
+       "hasContactButtons": false,
+       "hasHeroImage": false
+    },
+    {
+      "title": {
+        "content":"Ready to create a more organized space that works for you?",
+        "type": "h2",
+        "className": "subTitle centerText noSpace pb1"
+      },
+      "subSections": [
+        {
+          "content":"Call or text: (505) 595-2554",
+          "className": "noSpace"
+        },
+        {
+          "content":"Email: hello@organizedbyyvette.com",
+          "className": "noSpace"
+        }
+      ],
+      "className": "sectionBox center",
+      "hasContactButtons": true,
+      "hasHeroImage": false
+    }
+  ],
+  "footerContent": [
+    {
+      "className": "footerContainer",
+      "subSections": [
+        {
+          "content": "Organized by Yvette, LLC",
+          "className": "shortLineHeight"
+        },
+        {
+          "content": "[NAPO](https://napo.empowereddirectory.com/index.php/viewProfile/78950037) and [ICD](https://www.challengingdisorganization.org/organizer-profile/helloorganizedbyyvette-com/)",
+          "className": "shortLineHeight"
+        }
+      ]
+    }
+  ]
+}
